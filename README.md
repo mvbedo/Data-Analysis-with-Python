@@ -14,7 +14,7 @@ In this assignment, I acted as a Data Analyst for a Real Estate Investment Trust
 
 ## About the Dataset
 
-The dataset I used contains housing sale prices for King County, including Seattle. It includes sales data from May 2014 to May 2015 and was sourced from [this location](http://example.com). The dataset was slightly modified for the course.
+The dataset I used contains housing sale prices for King County, including Seattle. It includes sales data from May 2014 to May 2015 and was sourced from [this location]([http://example.com](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)). The dataset was slightly modified for the course.
 
 ## Module 1: Importing Data
 
